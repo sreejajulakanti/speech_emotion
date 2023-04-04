@@ -1,4 +1,4 @@
-# speech_emotion
+# Speech Emotion
 
 SPEECH EMOTION RECOGNITION,is a ML based project.
 OBJECTIVE: To build a model to recognize emotion from speech.
