@@ -11,5 +11,5 @@ Likewise any other suitable model is constructed and compare their accuracies an
 
 Output:
 
-![output_image](https://user-images.githubusercontent.com/104514318/229777515-f4d43710-045e-448f-855b-59e1cf659f97.png)
-![SER_output](https://user-images.githubusercontent.com/104514318/229777559-72c502ad-19af-48b5-a810-d381bca1904e.png)
+![output_image](https://user-images.githubusercontent.com/104514318/229778056-cf4152b6-65b3-4262-a51d-899bc6f24750.png)
+![SER_output](https://user-images.githubusercontent.com/104514318/229778067-7e654e19-3a75-49de-9e32-c6af626718c6.png)
