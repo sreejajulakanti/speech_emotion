@@ -1,7 +1,8 @@
 # Speech Emotion
 
-SPEECH EMOTION RECOGNITION,is a ML based project.
-OBJECTIVE: To build a model to recognize emotion from speech.
+SPEECH EMOTION RECOGNITION is a Deep Learning project.
+
+OBJECTIVE: To build a model that recognize emotion from speech.
 
 SVM.py is build based on MLP classifier.
 
